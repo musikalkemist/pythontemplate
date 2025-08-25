@@ -1,0 +1,1 @@
+Wirte information about the examples folder.
